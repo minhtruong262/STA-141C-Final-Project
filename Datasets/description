@@ -1,0 +1,10 @@
+Containing five datasets:
+1. spambase
+2. breast cancer
+3. adult
+4. parkinson
+5. madelon
+  -train data
+  -train lables
+  -validation data
+  -validation labels
